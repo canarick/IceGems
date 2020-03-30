@@ -3,6 +3,8 @@ WindowsNoEditor/*
 
 # Demo video
 *.mp4
+*.wav
+*.mp3
 
 # Visual Studio 2015 user specific files
 .vs/
